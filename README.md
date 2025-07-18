@@ -53,5 +53,5 @@ Given a dataset of medical attributes, predict whether a patient is likely to de
 
 ```bash
 git clone https://github.com/your-username/Diabetes-Prediction.git
-cd Diabetes-Prediction-rf
+cd Diabetes-Prediction
 pip install -r requirements.txt
